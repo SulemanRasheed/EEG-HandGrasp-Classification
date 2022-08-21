@@ -3,7 +3,7 @@
 # EEG Hand-Grasp Movement Classification
 The repo contains open-source code and dataset related to my publication "Classification of Hand-Grasp Movements of Stroke Patients using EEG Data" 
 
-## Citation
+## Feel free to Cite this Article if you find this Work Useful!
 Rasheed, S., & Mumtaz, W. (2021, April). Classification of Hand-Grasp Movements of Stroke Patients using EEG Data. In 2021 International Conference on Artificial Intelligence (ICAI) (pp. 86-90). IEEE.
 
 DOI: [10.1109/ICAI52203.2021.9445231](10.1109/ICAI52203.2021.9445231)
